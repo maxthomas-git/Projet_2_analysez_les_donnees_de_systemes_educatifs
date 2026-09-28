@@ -1,0 +1,20 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers que je ne veux pas envoyer sur GitHub
+main.py
+Untitled5.ipynb
+
+.ipynb_checkpoints/
+
+# Fichiers de données CSV
+*.csv
+
+# Fichiers système
+.DS_Store
+Thumbs.db
